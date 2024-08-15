@@ -1,0 +1,1 @@
+ D:\\dasturlash\\imtihon\\bootcamp\\imtihon5\\recipe\\.dart_tool\\flutter_build\\6faaa1487a10ebd65187651eddda094b\\native_assets.yaml: 
